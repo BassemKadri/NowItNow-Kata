@@ -1,4 +1,4 @@
-package model;
+package now.It.now.model;
 
 import lombok.Builder;
 import lombok.Data;

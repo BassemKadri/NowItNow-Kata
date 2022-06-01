@@ -1,4 +1,4 @@
-package exception;
+package now.It.now.exception;
 
 import lombok.Builder;
 

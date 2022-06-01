@@ -1,4 +1,4 @@
-package model;
+package now.It.now.model;
 
 
 public enum Step {

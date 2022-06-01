@@ -1,7 +1,6 @@
-package model;
+package now.It.now.model;
 
 import java.util.List;
-
 import lombok.Builder;
 import lombok.Data;
 

@@ -59,9 +59,13 @@ AADAADADDA
 We expect the following result (final position of the mowers): 1 3 N 5 1 E   
 NB: The input data is integrated as a file.  
 
-# To run the project
+# To clean and run test
 ``` sh
-mvn clean install
-mvn exec:java -Dexec.mainClass=Main -Dexec.args="test.txt"  
+mvn clean install  
+```
+
+# To run the jar with input file
+``` sh
+java -jar nowItNow-kata-1.0-SNAPSHOT.jar "classes/test.txt"
 ```
 
